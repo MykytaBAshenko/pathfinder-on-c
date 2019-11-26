@@ -1,4 +1,4 @@
-# pathfinder-on-c
+# pathfinder-on-c \n
 make all 
 vim map 
 4$
