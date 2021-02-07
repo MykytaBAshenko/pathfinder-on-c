@@ -1,15 +1,25 @@
 # pathfinder-on-c 
 This is algorithm task
+
+what to do:
 make all 
+
 vim map 
-4$
-Greenland-Bananal,8$
-Fraser-Greenland,10$
-Bananal-Fraser,3$
-Java-Fraser,5$
-:wq
+write this in file map->{
+4
+Greenland-Bananal,8
+Fraser-Greenland,10
+Bananal-Fraser,3
+Java-Fraser,5
+}
+
+in vim //esc:wq
+
 ./pathfinder map 
-get =>
+
+output>
+
+
 ========================================$
 Path: Greenland -> Bananal$
 Route: Greenland -> Bananal$
